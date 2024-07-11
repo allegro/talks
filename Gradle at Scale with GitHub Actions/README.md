@@ -1,4 +1,4 @@
-# Gradle at scale with GitHub and GitHub Actions at Allegro - with Bartosz Galek 
+# Gradle at scale with GitHub and GitHub Actions at Allegro
 
 https://www.youtube.com/live/gV94I28FPos
 
