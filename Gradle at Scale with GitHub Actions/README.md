@@ -1,5 +1,9 @@
 # Gradle at scale with GitHub and GitHub Actions at Allegro
 
+Speakers:
+- Radosław Panuszewski
+- Bartosz Gałek
+
 https://www.youtube.com/live/gV94I28FPos
 
 ## Abstract
